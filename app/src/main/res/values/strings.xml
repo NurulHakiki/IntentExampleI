@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExampleI</string>
+    <string name="second">second</string>
+    <string name="exit_activity">Exit Activity</string>
+</resources>
